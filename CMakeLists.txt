@@ -1,2 +1,2 @@
-project(buggier CPP)
+project(buggier CXX)
 add_executable(hello hello.cpp)
